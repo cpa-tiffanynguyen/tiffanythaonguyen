@@ -12,4 +12,4 @@ I have also created a GitBook: Finance and Data Science with Python. This GitBoo
 
 🌐 Streamlit App 🌐
 
-Check out my Streamlit app here. The app showcases my skills in building interactive web applications for data visualization and financial analysis using Python and Streamlit.
+Check out my Streamlit app [here]([url](https://tiffanythaonguyen-streamlit-example-streamlit-app-pia2qx.streamlit.app/). The app showcases my skills in building interactive web applications for data visualization and financial analysis using Python and Streamlit.
