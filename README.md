@@ -1,4 +1,4 @@
-👋 Hi, I’m Tiffany Nguyen
+👋 Hi, I’m @tiffanythaonguyen
 
 👀 I’m interested in the intersection of finance and technology, exploring data-driven insights, and leveraging Python and R for quantitative analysis.
 
